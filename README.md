@@ -1,4 +1,8 @@
 
+# This version of strava-v3 is customized for specific use case. Please check original [project](https://github.com/UnbounDev/node-strava-v3) 
+### What's changed:
+* Added a possibility to pass `redirect_url` to `strava.oauth.getRequestAccessURL({redirectUri: redirect_uri})`
+
 # strava-v3: Simple Node wrapper for Strava's v3 API
 
 [![NPM Version][npm-image]][npm-url]
